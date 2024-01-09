@@ -13,7 +13,7 @@ Now I am trying to get into contributing to opensource! Decided my first officia
 **What I like to do:** Code. I have no life I just program.<br>
 **Where I like to travel:** Canada<br>
 **Favorite Book:** Rainbow Six - Tom Clancy<br>
-**Favorite Video Game:** Halo Series in general. Next up in line is Forza Horizon series tho.<br>
+**Favorite Video Game:** Forza Series (Motorsport and Horizon)<br>
 **Favorite TV Show:** S.W.A.T<br>
 **Hobbies:** Math! Engines, car stuff, learning about how those things work. Researching AI. My no life shenanigans.<br>
 # Email me on the email on my profile for other questions I can add to this.<br>
