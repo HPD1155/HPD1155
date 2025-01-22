@@ -8,7 +8,7 @@ Now I am trying to get into contributing to opensource!<br>
 
 **Programming Languages:** Python, JS, HTML, CSS<br>
 **Frameworks:** React, Flask, FastAPI, Electron.js<br>
-**Libraries:** Tensorflow/Keras, sklearn, requests, beautifulsoup, PyQT, Numpy<br>
+**Libraries:** Tensorflow/Keras, sklearn, requests, beautifulsoup, PyQT, Numpy, Pytorch<br>
 **Skillset:** AI, NLP, backend, Web Dev, front-end, automation tasks<br>
 **What I like to do:** Code. I have no life I just program.<br>
 **Where I like to travel:** Canada<br>
